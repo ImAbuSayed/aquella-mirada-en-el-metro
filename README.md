@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-mirada-en-el-metro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Aquella mirada en el metro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-mirada-en-el-metro/) |
+| **Get License** | [Request Licensing for Aquella mirada en el metro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-mirada-en-el-metro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4869bf3b3068c00259cd7044529a986a1c806de6ef98035d9858fe2bea2cbfa9` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

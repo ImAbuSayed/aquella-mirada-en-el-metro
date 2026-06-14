@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella mirada en el metro
+
+This log tracks the cryptographic history and versioning for the song **Aquella mirada en el metro** (aquella-mirada-en-el-metro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:06:30.073974 | `v1` | `4869bf3b3068c00259cd7044529a986a1c806de6ef98035d9858fe2bea2cbfa9` | `ef2330b14fc3bfff34d89f945f66188b133f8d8dae9dbd9d896bb0edf65889e9` | `2026-06-14_aquella-mirada-en-el-metro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
